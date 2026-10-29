@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=Yougo-rgb&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=Yougo-rgb&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yougo-rgb&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Streak](https://yougo-rgb.github.io/Yougo-rgb/streak.svg)<br/>
+![Stats](https://yougo-rgb.github.io/Yougo-rgb/stats.svg)<br/>
+![Top Languages](https://yougo-rgb.github.io/Yougo-rgb/top-langs.svg)
 
 </div>
 
